@@ -14,9 +14,10 @@ TicTacToe LLD in Java
 
 # Undo 
 1. Global Button
-2. Any number of times can be pressed
-3. Undo has to be used with other player's permission
-4. Maintain game states
+2. Remove last move from the List<Move>
+3. Any number of times can be pressed
+4. Undo has to be used with other player's permission
+5. Maintain game states
 
 # Nouns
 1. Board
